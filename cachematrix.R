@@ -1,7 +1,8 @@
 ## These functions create a special matrix and compute the inverse
-## They are copied from the makeVector and cachemean functions provided in the assignment,
+## They are based on the makeVector and cachemean functions provided in the assignment,
+## (https://www.coursera.org/learn/r-programming/peer/tNy8H/programming-assignment-2-lexical-scoping)
 ## and updated to use a matrix instead of a vector, and inverse instead of mean calcs.
-## I added a test at the end matching calcs I see at https://www.basic-mathematics.com/find-the-inverse-of-a-number.html
+## I added a test that matches calcs I see at https://www.basic-mathematics.com/find-the-inverse-of-a-number.html
 
 
 #This function creates a special "matrix" object that can cache its inverse.
